@@ -26,6 +26,6 @@ spec:
         - name: DBPWD
           value: "dbpwd"
         - name: DBHOST
-          value: "mysql.assignment2.svc.cluster.local"
+          value: "mysql.abhishek.svc.cluster.local"
         - name: DBUSER
           value: "root"
